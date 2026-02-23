@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+
+# Generated Projects
+generated_projects/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
